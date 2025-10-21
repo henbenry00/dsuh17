@@ -3,17 +3,17 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Rocky 10 VM](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Active Directory Home Lab]
+  - [Rocky 10 VM]
 
 <h2>🏅 Certifications:</h2>
 
 - CompTIA
-  - [Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-  - [Network+](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-  - [A+](https://www.youtube.com/watch?v=N-L9hklSlNk)
+  - [Security+]
+  - [Network+]
+  - [A+]
 - Fortinet
-  - [FCA](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+  - [FCA]
 
 <h3>✍️ What I'm Working On:</h3>
 
