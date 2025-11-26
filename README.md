@@ -9,11 +9,9 @@
 <h2>🏅 Certifications:</h2>
 
 - CompTIA
-  - [Security+]
-  - [Network+]
-  - [A+]
+  - `Security+` • `Network+` • `A+`
 - Fortinet
-  - [FCA]
+  - `FCA`
 
 <h3>✍️ What I'm Working On:</h3>
 
